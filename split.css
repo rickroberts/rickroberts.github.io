@@ -217,7 +217,8 @@ body.page-template-page-fullsingle-split {
     line-height: 14px;
     color: #000; }
     .split-credit p a {
-      color: #000; }
+      color: #000;
+		  border-bottom: 1px dotted #848d96; }
     .split-credit a:hover {
       color: #84B1D4;
       -webkit-transition-duration: 0.1s;
